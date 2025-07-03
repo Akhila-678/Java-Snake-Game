@@ -27,3 +27,6 @@ A classic Snake Game built with Java Swing. This project demonstrates GUI design
 
 ---
 
+## 📸 Screenshot
+
+![Snake Game Preview](1.png)(2.png)
